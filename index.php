@@ -26,7 +26,7 @@ echo '</header>';
 echo '<nav>';
 echo '<a href="#home">Home</a>';
 echo '<a href="#about">About</a>';
-echo '<a href="#contact">Contact</a>';
+echo '<a href="contact.php">Contact</a>';
 echo '<a href="nextpage.php">More Info</a>';
 echo '</nav>';
 
